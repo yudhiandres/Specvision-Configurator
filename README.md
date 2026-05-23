@@ -89,7 +89,6 @@ python main_app.py
 ## ⚙️ Data Manager
 
 Manages all master data required for the inspection system.
-![Camera](assets/doc/data_manager.png)
 - **Products** – Define product types to be inspected  
 - **Parts** – List of components for each product  
 - **Inspection Items** – Define inspection criteria  
@@ -111,7 +110,6 @@ Manages all master data required for the inspection system.
 ### 🗂️ Dataset Manager
 
 - **Organize Dataset** – Manage and structure dataset files  
-![Organize](assets/doc/dataset_manager.png)
 - **Capture Images** – Capture images from camera  
 - **Annotate Data** – Label images for training  
 ![Annotation](assets/doc/Annotation.png)
